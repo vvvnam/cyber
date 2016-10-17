@@ -5,7 +5,7 @@ public class test2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//수정
-		System.out.println("test");
+		System.out.println("test20161017");
 	}
 
 }
